@@ -1,4 +1,4 @@
-## The Ghats
+# The Ghats
 ## Travel Blog
 
 You can use the [editor on GitHub](https://github.com/bcesakki/theghats/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
